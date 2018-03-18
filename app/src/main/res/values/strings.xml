@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DENNES_1202152168_studycase4</string>
+    <string-array name="namaMhs">
+        <item>Dennes</item>
+        <item>Daru</item>
+        <item>farhan</item>
+        <item>ubay</item>
+        <item>afrizal</item>
+        <item>adib</item>
+        <item>ayu</item>
+        <item>virra</item>
+        <item>one</item>
+        <item>ara</item>
+        <item>iti</item>
+        <item>acid</item>
+        <item>aldi</item>
+    </string-array>
+</resources>

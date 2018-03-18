@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="picture" type="id">@+id/picture</item>
+    <item name="link" type="id">@+id/link</item>
+</resources>
